@@ -32,34 +32,34 @@ The table below contains an overview of all classes available in the Joystream C
 
 This table contains all classes to be used for general purposes.
 
-|     Name                |ClassId| Information                                    |Internal ClassIds| Link to Schemas (latest version)                |
-|-------------------------|:-----:|------------------------------------------------|:---------------:|-------------------------------------------------|
-|Data Directory Object    | `NA`  |[Link](classes/general/data-directory-object.md)|      `NA`       |[v0](schemas/general/data-directory-object.md)   |
-|Language                 | `NA`  |[Link](classes/general/language.md)             |      `NA`       |[v0](schemas/general/language.md)                |
-|Channel                  | `NA`  |[Link](classes/general/channel.md)              |      `NA`       |[v0](schemas/general/channel.md)                 |
+|     Name                |ClassId| Information                                         |Internal ClassIds| Link to Schemas (latest version)                     |
+|-------------------------|:-----:|-----------------------------------------------------|:---------------:|------------------------------------------------------|
+|Data Directory Object    | `NA`  |[Link](classes/general/data-directory-object.md)     |      `NA`       |[v0](schemas/general/data-directory-object.md)        |
+|Language                 | `NA`  |[Link](classes/general/language.md)                  |      `NA`       |[v0](schemas/general/language.md)                     |
+|Channel                  | `NA`  |[Link](classes/general/channel.md)                   |      `NA`       |[v0](schemas/general/channel.md)                      |
 
 ## Type Specific
 
 ### ebooks
 This table contains all classes to be used for specifically for ebooks.
 
-|     Name                |ClassId| Information                                    |Internal ClassIds| Link to Schemas (latest version)                |
-|-------------------------|:-----:|------------------------------------------------|:---------------:|-------------------------------------------------|
-|-------                  | `NA`  |[Link](classes/podcast/-------.md)              |      `NA`       |[v0](schemas/-------/-------.md)                 |
+|     Name                |ClassId| Information                                         |Internal ClassIds| Link to Schemas (latest version)                     |
+|-------------------------|:-----:|-----------------------------------------------------|:---------------:|------------------------------------------------------|
+|-------                  | `NA`  |[Link](classes/podcast/-------.md)                   |      `NA`       |[v0](schemas/-------/-------.md)                      |
 
 ### Podcast
 
 This table contains all classes to be used for specifically for podcasts.
 
-|     Name                |ClassId| Information                                    |Internal ClassIds| Link to Schemas (latest version)                |
-|-------------------------|:-----:|------------------------------------------------|:---------------:|-------------------------------------------------|
-|Podcast                  | `NA`  |[Link](classes/podcast/podcast.md)              |      `NA`       |[v0](schemas/podcast/podcast.md)                 |
-|Podcast Episodes         | `NA`  |[Link](classes/podcast/podcast-episodes.md)     |      `NA`       |[v0](schemas/podcast/podcast-episodes.md)        |
-|Podcast Categories       | `NA`  |[Link](classes/podcast/podcast-categories.md)   |      `NA`       |[v0](schemas/podcast/podcast-categories.md)      |
+|     Name                |ClassId| Information                                         |Internal ClassIds| Link to Schemas (latest version)                     |
+|-------------------------|:-----:|-----------------------------------------------------|:---------------:|------------------------------------------------------|
+|Podcast                  | `NA`  |[Link](classes/podcast/podcast.md)                   |      `NA`       |[v0](schemas/podcast/podcast.md)                      |
+|Podcast Episode          | `NA`  |[Link](classes/podcast/podcast-episode.md)           |      `NA`       |[v0](schemas/podcast/podcast-episode.md)              |
+|Podcast Category itunes  | `NA`  |[Link](classes/podcast/podcast-category-itunes.md)   |      `NA`       |[v0](schemas/podcast/podcast-category-itunes.md)      |
 
 ### Videos
 This table contains all classes to be used for specifically for videos.
 
-|     Name                |ClassId| Information                                    |Internal ClassIds| Link to Schemas (latest version)                |
-|-------------------------|:-----:|------------------------------------------------|:---------------:|-------------------------------------------------|
-|-------                  | `NA`  |[Link](classes/-------/-------.md)              |      `NA`       |[v0](schemas/-------/-------.md)                 |
+|     Name                |ClassId| Information                                         |Internal ClassIds| Link to Schemas (latest version)                     |
+|-------------------------|:-----:|-----------------------------------------------------|:---------------:|------------------------------------------------------|
+|-------                  | `NA`  |[Link](classes/-------/-------.md)                   |      `NA`       |[v0](schemas/-------/-------.md)                      |
